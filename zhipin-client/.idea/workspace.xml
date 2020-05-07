@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4237151-560d-4a1e-a451-fc9c6d8b7232" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TmshwrReMzDJlyOeIbYdDayrAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\components\nav-footer\images" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\components\header-selector" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\containers" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\assets\header-selector\images" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\components\laoban" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\containers" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\components" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-client\src\assets" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4237151-560d-4a1e-a451-fc9c6d8b7232" name="Default Changelist" comment="" />
+      <created>1574076728323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574076728323</updated>
+      <workItem from="1574076731945" duration="25000" />
+      <workItem from="1574076758287" duration="1562000" />
+      <workItem from="1574078363462" duration="1355000" />
+      <workItem from="1574079720294" duration="6429000" />
+      <workItem from="1574133527831" duration="4045000" />
+      <workItem from="1574137580087" duration="4528000" />
+      <workItem from="1574157273010" duration="3384000" />
+      <workItem from="1574218869883" duration="16233000" />
+      <workItem from="1574306605783" duration="5233000" />
+      <workItem from="1574312514854" duration="18911000" />
+      <workItem from="1574391245706" duration="26343000" />
+      <workItem from="1574433884088" duration="9159000" />
+      <workItem from="1574476180909" duration="5081000" />
+      <workItem from="1574481305457" duration="3604000" />
+      <workItem from="1574485426770" duration="1327000" />
+      <workItem from="1574488688436" duration="2217000" />
+      <workItem from="1574494203788" duration="9080000" />
+      <workItem from="1574564906140" duration="3754000" />
+      <workItem from="1574569935766" duration="9544000" />
+      <workItem from="1574596378207" duration="8813000" />
+      <workItem from="1574615456667" duration="453000" />
+      <workItem from="1574618072712" duration="923000" />
+      <workItem from="1574650660332" duration="1277000" />
+      <workItem from="1574652264658" duration="9779000" />
+      <workItem from="1574675120023" duration="5476000" />
+      <workItem from="1574691763401" duration="7358000" />
+      <workItem from="1574738160540" duration="7954000" />
+      <workItem from="1574746277744" duration="640000" />
+      <workItem from="1574754108841" duration="4398000" />
+      <workItem from="1574759138348" duration="406000" />
+      <workItem from="1574759583366" duration="465000" />
+      <workItem from="1574760575507" duration="55000" />
+      <workItem from="1585732162415" duration="438000" />
+      <workItem from="1585732726932" duration="88000" />
+      <workItem from="1585744946176" duration="215000" />
+      <workItem from="1585750747586" duration="363000" />
+      <workItem from="1586055559307" duration="35000" />
+      <workItem from="1586166790533" duration="2030000" />
+      <workItem from="1586186293350" duration="80000" />
+      <workItem from="1586516845483" duration="9000" />
+      <workItem from="1587355975121" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="201" key="FileChooserDialogImpl" timestamp="1586055592197">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="579" y="201" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586055592197" />
+  </component>
+</project>

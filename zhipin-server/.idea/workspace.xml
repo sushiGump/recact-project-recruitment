@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b901268-6154-4f37-a89c-bee615ba3aef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zhipin-server" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Tp2pEF8UHD1w0G7mj597JTT8RL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo/redux_mini" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-server\bin" />
+      <recent name="F:\资料\前端资料\8.前端学科--项目实战\尚硅谷React项目【硅谷直聘】教程\demo code\zhipin-server\db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.models.js">
+    <configuration name="db_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/db/db_test.js" working-dir="$PROJECT_DIR$/db">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/index.js" working-dir="$PROJECT_DIR$/routes">
+      <method v="2" />
+    </configuration>
+    <configuration name="models.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../code/gzhipin-server_final/db/models.js" working-dir="$PROJECT_DIR$/../../code/gzhipin-server_final/db">
+      <method v="2" />
+    </configuration>
+    <configuration name="models.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/db/models.js" working-dir="$PROJECT_DIR$/db">
+      <method v="2" />
+    </configuration>
+    <configuration name="socketIO_server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/socketIO/socketIO_server.js" working-dir="$PROJECT_DIR$/socketIO">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.models.js" />
+        <item itemvalue="Node.js.socketIO_server.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.models.js (1)" />
+        <item itemvalue="Node.js.db_test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b901268-6154-4f37-a89c-bee615ba3aef" name="Default Changelist" comment="" />
+      <created>1574142896196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574142896196</updated>
+      <workItem from="1574142897558" duration="7420000" />
+      <workItem from="1574157273221" duration="9650000" />
+      <workItem from="1574220159553" duration="2264000" />
+      <workItem from="1574242567916" duration="1606000" />
+      <workItem from="1574308142787" duration="10594000" />
+      <workItem from="1574391233520" duration="5465000" />
+      <workItem from="1574433583088" duration="40000" />
+      <workItem from="1574433901118" duration="2814000" />
+      <workItem from="1574476409418" duration="4414000" />
+      <workItem from="1574481315294" duration="2601000" />
+      <workItem from="1574485379461" duration="1368000" />
+      <workItem from="1574488951218" duration="2035000" />
+      <workItem from="1574494244705" duration="9372000" />
+      <workItem from="1574564673385" duration="3386000" />
+      <workItem from="1574569859194" duration="8026000" />
+      <workItem from="1574588023701" duration="3059000" />
+      <workItem from="1574591200040" duration="3607000" />
+      <workItem from="1574596443748" duration="8136000" />
+      <workItem from="1574614952152" duration="963000" />
+      <workItem from="1574616570804" duration="2427000" />
+      <workItem from="1574650133182" duration="84000" />
+      <workItem from="1574652520598" duration="1649000" />
+      <workItem from="1574676547429" duration="1781000" />
+      <workItem from="1574691709724" duration="2406000" />
+      <workItem from="1574738144030" duration="4841000" />
+      <workItem from="1574754084613" duration="2838000" />
+      <workItem from="1574759566493" duration="492000" />
+      <workItem from="1574760257583" duration="297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
